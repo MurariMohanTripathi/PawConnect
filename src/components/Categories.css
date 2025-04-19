@@ -1,0 +1,54 @@
+  .categories {
+    display: flex;
+    align-items: center;
+    gap: 149px;
+    padding: 11px 38px;
+    background-color: #fefdf9;
+    justify-content: center;
+    margin: 47px 167px 9px 12rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    
+    .category {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      font-weight: 600;
+      color: #003333;
+      font-size: 16px;
+    }
+    
+    .icon {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      font-size: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 8px;
+    }
+    
+    /* Color styles */
+    .dog {
+      background-color: #c1e1f5;
+    }
+    
+    .cat {
+      background-color: #fdd4a6;
+    }
+    
+    .rabbit {
+      background-color: #bce2a3;
+    }
+    
+    .bird {
+      background-color: #dbb3e6;
+    }
+    
+    /* .arrow {
+      font-size: 24px;
+      color: #003333;
+      cursor: pointer;
+    }
+    */
